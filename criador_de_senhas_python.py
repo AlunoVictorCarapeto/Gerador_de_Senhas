@@ -3,7 +3,6 @@ import random
 '''
 Universidade São Judas Tadeu (USJT)
 Nome: Victor Licnerski Carapeto
-R.A: 819144457
 Desafio final do curso de extensão #acampamento_python
 '''
 # Entrada
